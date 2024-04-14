@@ -16,7 +16,7 @@ The Blogger web application is designed to provide a platform for users to creat
 * HTML Templates: Define the structure and layout of web pages.
 * CSS Stylesheets: Apply styles to HTML elements for visual presentation.
 * JavaScript: Handle client-side interactions and dynamic content.
-* 2.2 Backend Components
+# 2.2 Backend Components
 Flask Application: Core application logic implemented using the Flask web framework.
 Database: Store data related to blog posts, users, comments, etc.
 ORM (Object-Relational Mapping): Interact with the database in an object-oriented manner (using SQLAlchemy).
